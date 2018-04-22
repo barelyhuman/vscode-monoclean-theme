@@ -58,7 +58,7 @@
 		"editorMarkerNavigation.background": "#16161b",
 		"editorHoverWidget.background": "#16161b",
 		"editorHoverWidget.border": "#16161b",
-		"editorBracketMatch.border": "#35404c",
+		"editorBracketMatch.border": "#fff",
 		"editorOverviewRuler.border": "#1d242c",
 		"editorOverviewRuler.errorForeground": "#ff3333",
 		"editorOverviewRuler.warningForeground": "#f29718",
