@@ -1,28 +1,33 @@
 {
-    "name": "monoclean",
-    "displayName": "Monoclean",
-    "description": "Clean Monochromatic Theme for VSCODE",
-    "version": "0.0.1",
-    "publisher": "Reaper <ahoy@barelyhuman.dev>",
-    "engines": {
-        "vscode": "^1.22.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Monoclean",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Monoclean-color-theme.json"
-            },
-            {
-                "label": "Monoclean Light",
-                "uiTheme": "vs",
-                "path": "./themes/Monoclean-light-color-theme.json"
-            }
-
-        ]
-    }
+	"name": "monoclean",
+	"displayName": "Monoclean",
+	"description": "Clean Monochromatic Theme for VSCODE",
+	"version": "0.0.1",
+	"publisher": "barelyreaper",
+	"repository": "https://github.com/barelyhuman/vscode-monoclean-theme",
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monoclean",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monoclean-color-theme.json"
+			},
+			{
+				"label": "Monoclean Light",
+				"uiTheme": "vs",
+				"path": "./themes/Monoclean-light-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "fee5fd8b-738f-43b4-8144-2b9d10334b8b",
+		"publisherDisplayName": "Reaper",
+		"publisherId": "e3e12f9b-9348-4a1a-84fc-6db15e3fc5dc"
+	}
 }
