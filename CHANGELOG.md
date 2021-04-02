@@ -1,4 +1,5 @@
 # Changelog 
+88dc4a559c48575e95d297e0cd5a3adeecd90825 - lighter whites and darker yellows  
 064246efa69d04f11a2b475562b3b66f926ae93b - remove un-needed deps  
 5172824f3740d23a8d9edbfee8dd44769d2868b5 - husky post-commit hook  
 3adca4e82301b398cab76a997f51836955ce23ce - changelog handler  
