@@ -1,15 +1,15 @@
 # Changelog 
-678c7f87c042f938e3c7e8c86256239574773bc5 - husky post-commit hook
-3adca4e82301b398cab76a997f51836955ce23ce - changelog handler
-09314050353b4b412878d2f1de17c6b5899a3bc1 - add icon
-2e34fd683424c31e8af61e6c191b31eb9ad08674 - readme update
-50503bba0a57235cc2fb55f66676de9be241e68f - add repository path
-90d9648953eef245374aaf325e1c073fa633edb4 - sleeker
-7c3b23fa8b0118c7dbb55b7bb8347c25bfcac7b4 - find selection background
-b30084b6c8633cc0db0d053debd5f9cbcce0cf46 - match background
-98bfe5c310c8ceca4e62e4914f4dff8272143d8a - bracket border
-9edf847cb7b8c828a31ebe42665d1c4dd91789be - bracket fix
-b6532b9c19321dbc57ed6cf1383e59f9e4615706 - no folder color fix
-dab4b30011d61d3169e38c831dc58d8ebc903065 - blah
-e93e5765e2800e6fdee3bbcb88287ae7d9f79a5f - basic workflow theme setup
+5172824f3740d23a8d9edbfee8dd44769d2868b5 - husky post-commit hook  
+3adca4e82301b398cab76a997f51836955ce23ce - changelog handler  
+09314050353b4b412878d2f1de17c6b5899a3bc1 - add icon  
+2e34fd683424c31e8af61e6c191b31eb9ad08674 - readme update  
+50503bba0a57235cc2fb55f66676de9be241e68f - add repository path  
+90d9648953eef245374aaf325e1c073fa633edb4 - sleeker  
+7c3b23fa8b0118c7dbb55b7bb8347c25bfcac7b4 - find selection background  
+b30084b6c8633cc0db0d053debd5f9cbcce0cf46 - match background  
+98bfe5c310c8ceca4e62e4914f4dff8272143d8a - bracket border  
+9edf847cb7b8c828a31ebe42665d1c4dd91789be - bracket fix  
+b6532b9c19321dbc57ed6cf1383e59f9e4615706 - no folder color fix  
+dab4b30011d61d3169e38c831dc58d8ebc903065 - blah  
+e93e5765e2800e6fdee3bbcb88287ae7d9f79a5f - basic workflow theme setup  
 
