@@ -1,4 +1,6 @@
 # Changelog 
+678c7f87c042f938e3c7e8c86256239574773bc5 - husky post-commit hook
+3adca4e82301b398cab76a997f51836955ce23ce - changelog handler
 09314050353b4b412878d2f1de17c6b5899a3bc1 - add icon
 2e34fd683424c31e8af61e6c191b31eb9ad08674 - readme update
 50503bba0a57235cc2fb55f66676de9be241e68f - add repository path
