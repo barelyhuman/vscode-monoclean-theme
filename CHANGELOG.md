@@ -1,4 +1,5 @@
 # Changelog 
+064246efa69d04f11a2b475562b3b66f926ae93b - remove un-needed deps  
 5172824f3740d23a8d9edbfee8dd44769d2868b5 - husky post-commit hook  
 3adca4e82301b398cab76a997f51836955ce23ce - changelog handler  
 09314050353b4b412878d2f1de17c6b5899a3bc1 - add icon  
