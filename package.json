@@ -4,6 +4,7 @@
 	"description": "Clean Monochromatic Theme for VSCODE",
 	"version": "0.0.1",
 	"publisher": "barelyreaper",
+	"icon":"./assets/icon.png",
 	"repository": "https://github.com/barelyhuman/vscode-monoclean-theme",
 	"engines": {
 		"vscode": "^1.22.0"
