@@ -3,7 +3,7 @@
     "displayName": "Monoclean",
     "description": "Clean Monochromatic Theme for VSCODE",
     "version": "0.0.1",
-    "publisher": "reap-r",
+    "publisher": "Reaper <ahoy@barelyhuman.dev>",
     "engines": {
         "vscode": "^1.22.0"
     },
@@ -16,7 +16,13 @@
                 "label": "Monoclean",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monoclean-color-theme.json"
+            },
+            {
+                "label": "Monoclean Light",
+                "uiTheme": "vs",
+                "path": "./themes/Monoclean-light-color-theme.json"
             }
+
         ]
     }
 }
