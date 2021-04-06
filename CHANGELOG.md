@@ -1,4 +1,5 @@
 # Changelog 
+4da0c04e5921402705374972a34d26b98e2f074e - 0.1.5  
 cc48d99db830f6e8798ee25a0eb2906c18767a3c - fix: invalid highlight value  
 7ef05a48e42914b370e0d3eab37da4a1dc27d910 - 0.1.4  
 d352a7b37b9ecc7c9f7606e80d3c7a7c9384143f - reformat  
