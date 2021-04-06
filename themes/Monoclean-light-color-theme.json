@@ -53,7 +53,7 @@
     "editor.lineHighlightBackground": "#ddd",
     "editor.rangeHighlightBackground": "#ddd",
     "editor.wordHighlightBackground": "#ddd",
-    "editor.wordHighlightStrongBackground": "#efefef",
+    "editor.wordHighlightStrongBackground": "#ddd",
     "editorCursor.foreground": "#16161b",
     "editorWhitespace.foreground": "#16161b",
     "editorIndentGuide.background": "#efefef",
@@ -173,7 +173,8 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#16161b",
+        "foreground": "#ddd",
+        "fontStyle": "italic",
         "background": "#efefef"
       }
     },

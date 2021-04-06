@@ -173,7 +173,8 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#efefef",
+        "foreground": "#ddd",
+        "fontStyle": "italic",
         "background": "#16161b"
       }
     },
