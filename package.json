@@ -2,7 +2,7 @@
 	"name": "monoclean",
 	"displayName": "Monoclean",
 	"description": "Clean Monochromatic Theme for VSCODE",
-	"version": "0.1.6",
+	"version": "0.1.7",
 	"publisher": "barelyreaper",
 	"icon": "assets/icon.png",
 	"repository": "https://github.com/barelyhuman/vscode-monoclean-theme",
